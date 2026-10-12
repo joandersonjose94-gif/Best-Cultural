@@ -1,0 +1,619 @@
+[
+  {
+    "number": 1,
+    "slug": "cavalo-marinho",
+    "title": "Cavalo-Marinho",
+    "category": "festa",
+    "categoryLabel": "Teatro Popular · Música · Dança",
+    "region": "Zona da Mata Norte (PE/PB)",
+    "territorialNote": "Zona da Mata Norte (PE/PB). Folguedo cênico-musical que combina teatro, música, dança e poesia, com personagens mascarados e coreografias de pisadas e trupés.",
+    "subtitle": "Teatro Popular · Música · Dança",
+    "excerpt": "Folguedo cênico-musical que combina teatro, música, dança e poesia, com personagens mascarados e coreografias de pisadas e trupés.",
+    "story": [
+      "Folguedo cênico-musical que combina teatro, música, dança e poesia, com personagens mascarados e coreografias de pisadas e trupés."
+    ],
+    "storyIsHtml": false,
+    "visualMotif": "Memória, música, dança e saberes da comunidade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cavalo-marinho_2.jpg/800px-Cavalo-marinho_2.jpg",
+    "photoCredit": "Imagem preservada da versão HTML anterior",
+    "photoSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cavalo-marinho_2.jpg/800px-Cavalo-marinho_2.jpg",
+    "sources": [
+      {
+        "title": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Fundação Joaquim Nabuco — biografia de Mestre Salustiano",
+        "institution": "Referência citada no dossiê",
+        "url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/mestre-salustiano/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — registro do Cavalo-Marinho",
+        "institution": "Referência citada no dossiê",
+        "url": "https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-do-cavalo-marinho-como-patrimonio-cultural-do-brasil/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan Pernambuco — patrimônio imaterial",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.gov.br/iphan/pt-br/superintendencias/pernambuco/patrimonio-imaterial",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Fundação Joaquim Nabuco; Iphan — páginas institucionais consultadas em outubro de 2026.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Imagem de referência de Cavalo-Marinho",
+        "institution": "Imagem já incluída no HTML anterior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cavalo-marinho_2.jpg/800px-Cavalo-marinho_2.jpg",
+        "note": "Endereço original preservado; confirme licença e atribuição."
+      }
+    ],
+    "extraPages": [
+      {
+        "eyebrow": "Cap. 1",
+        "title": "Identidade e Natureza",
+        "content": "O <strong>Cavalo-Marinho</strong> é um folguedo cênico-musical tradicional da Zona da Mata Norte de Pernambuco e de áreas próximas da Paraíba. Combina teatro popular, música, dança, poesia, improvisação, personagens mascarados e coreografias conhecidas como <em>pisadas</em> e <em>trupés</em>.\n\nSua relevância não está somente na apresentação pública. A manifestação constitui um sistema de conhecimentos que envolve memória, técnica corporal, música, fabricação de adereços, organização comunitária e transmissão de histórias entre gerações.\n\nExistem registros específicos do <strong>Boi de Ouro</strong> e do <strong>Boi Maneiro</strong> na região, além de pesquisa acadêmica dedicada às formas de aprendizagem de seus mestres.",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Cap. 2",
+        "title": "Formação Histórica",
+        "content": "O Cavalo-Marinho se desenvolveu no contexto das comunidades rurais da Zona da Mata, região marcada pela produção de cana-de-açúcar e por profundas desigualdades sociais. A história do folguedo deve ser compreendida dentro de um processo mais amplo, no qual trabalhadores rurais criaram e recriaram formas próprias de entretenimento, representação, celebração e expressão coletiva.\n\nA tradição dialoga com matrizes africanas e afro-brasileiras, repertórios ibéricos, religiosidade popular e diferentes formas de teatro e dança. Essas influências não devem ser tratadas como ingredientes isolados: ao longo das gerações, foram reinterpretadas pelas comunidades e pelos próprios brincantes.\n\n<h4>Três questões distintas</h4>\n\n<ul><li><strong>O contexto de formação:</strong> comunidades rurais, trabalho canavieiro, festas e sociabilidade.</li><li><strong>A evolução histórica:</strong> mudanças no repertório, nos personagens, na duração das apresentações e nas formas de organização.</li><li><strong>As memórias de origem:</strong> histórias contadas pelos mestres, que são fontes fundamentais, mas podem apresentar versões diferentes.</li></ul>\n\nNão existe uma data única, comprovada para todos os grupos, que possa ser considerada o nascimento do Cavalo-Marinho. A história de cada grupo precisa ser investigada separadamente.",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Cap. 3",
+        "title": "Estrutura da Brincadeira",
+        "content": "O Cavalo-Marinho não funciona como uma coreografia única. É uma sequência de situações musicais e dramáticas, conduzidas por conhecimentos que os mestres acumulam durante anos.\n\n<h4>O banco musical</h4>\n\nO <strong>banco</strong> é o conjunto responsável por sustentar a dimensão musical da brincadeira. Seus integrantes precisam conhecer os ritmos, as toadas, os momentos de entrada e saída das figuras e as relações entre música e movimento. Os instrumentos mais associados à manifestação incluem: <strong>rabeca</strong> (cordas friccionadas, conduz melodias), <strong>pandeiro</strong> (marcações rítmicas), <strong>ganzá</strong> (agitação), <strong>reco-reco</strong> (raspagem) e <strong>bagem de taboca</strong>.\n\n<h4>Pisadas e trupés</h4>\n\nAs <em>pisadas</em> são sequências de movimentos que organizam a participação corporal dos brincantes. Os <em>trupés</em> envolvem trabalho dos pés, deslocamentos, mudanças de direção, acentuação e coordenação coletiva. A pessoa não aprende somente observando uma descrição escrita: aprende pela repetição, pelo contato com brincantes experientes e pela correção prática.\n\n<h4>Aprendizagem</h4>\n\nMestre Pinto afirma: <em>\"se aprende Cavalo Marinho na noite de Sambada\"</em>. A transmissão se dá no convívio, na festa e no cotidiano, mais do que em qualquer manual.",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Cap. 4",
+        "title": "Mestres e Linhagens",
+        "content": "<h4>Mestre João Araújo — Boi de Ouro</h4>\n\nTambém identificado em registros municipais como <strong>João Cezário Venâncio</strong>, é uma das principais referências da tradição. Nasceu em 1922 e começou a brincar Cavalo-Marinho aos 16 anos, em 1938. É <strong>rabequeiro</strong> e dono do <strong>Boi de Ouro</strong>. Completou 103 anos em fevereiro de 2025, ainda em atividade.\n\n<h4>Mestre Pinto — Boi Maneiro</h4>\n\nÉ estudado diretamente na pesquisa de Joelson Pereira da Silva sobre os processos de ensino do Cavalo-Marinho. O trabalho também o relaciona ao Boi de Ouro como <em>contramestre</em>, evidenciando a circulação de conhecimentos entre grupos e municípios.\n\n<h4>Mestre Pedro Luiz — Boi Maneiro</h4>\n\nSegundo mestre central da pesquisa acadêmica da UFPB. Desenvolveu seu saber após oficinas e convivência com mestres como Duda Bilau, Lelé e João Araújo.\n\n<h4>Outros mestres citados</h4>\n\nDuda Bilau, Mestre Lelé, Mestre Nerzim, Luiz Miguel, Mestre Zé da Rebeca (Jangada) e João Gambá.",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Cap. 5",
+        "title": "Personagens",
+        "content": "A sequência de entrada das figuras varia entre grupos. Cada personagem tem função dramática, movimento próprio e relação específica com a música e o público.\n\n<h4>Personagens centrais</h4>\n\n<ul><li><strong>Mateus e Bastião:</strong> figuras cômicas centrais, com fala, improvisação e interação com o público.</li><li><strong>Capitão:</strong> figura de comando que organiza a entrada dos personagens.</li><li><strong>Galantes:</strong> participam de sequências coreográficas específicas.</li><li><strong>Boi:</strong> figura animal de grande importância visual e dramática.</li></ul>\n\n<h4>Ordem no Boi de Ouro</h4>\n\nA ordem documentada inclui: Mateus e Bastião, Capitão, Galantes, Pastorinhas, Valentão, Cavalo, Cobrador, Zepelin, Padre, Diabo, Mané Pequenino, Babau, Zé Friento, Margarida, Mané Chorão e o Boi.\n\n<h4>Ordem segundo Mestre Pinto</h4>\n\n<em>\"Primeiro o Mateus, vem o Ambrósio, vem o Soldado, vem os Aicos, depois dos Aico vem o Valentão, vem o Cavalo, depois do Cavalo vem o Pataqueiro, depois vem o Caboclo de Orubá, vem o Pisa Pilão, vem o Mané Chorão...\"</em>",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Cap. 6",
+        "title": "Patrimônio Educativo",
+        "content": "A pesquisa da UFPB analisa o ensino dos mestres de Cavalo-Marinho, distinguindo três formas de educação que coexistem na transmissão da manifestação.\n\n<h4>Educação informal</h4>\n\nAcontece no cotidiano, na família, nas noites de sambada e no convívio entre gerações. É a forma mais antiga e mais presente.\n\n<h4>Educação não formal</h4>\n\nOcorre em projetos, oficinas e iniciativas culturais. Municípios da região oferecem <strong>oficinas de Cavalo Marinho</strong> em seus núcleos culturais.\n\n<h4>Educação formal</h4>\n\nQuando a manifestação entra na escola regular, como conteúdo curricular ou projeto pedagógico.\n\nO patrimônio imaterial não é apenas um conjunto de objetos antigos. É um conhecimento vivo, praticado, ensinado e transformado por pessoas e comunidades.",
+        "rich": true,
+        "images": [],
+        "source": "SILVA, Joelson Pereira da. Pisada do coração. UFPB, 2020."
+      },
+      {
+        "eyebrow": "Dossiê histórico",
+        "title": "Mestres, memória e transmissão dos saberes",
+        "content": "<h4>Mestre Salustiano (Manoel Salustiano Soares) — 1945–2008</h4>\n\nA Fundação Joaquim Nabuco registra que Manoel Salustiano Soares, conhecido como Mestre Salustiano ou Mestre Salu, nasceu em 12 de novembro de 1945, em Aliança, na Zona da Mata Norte de Pernambuco, e faleceu em 31 de agosto de 2008. Foi artesão e comandante de Cavalo-Marinho. A mesma biografia informa que seu pai, João Salustiano, tocava rabeca e lhe ensinou a construir e tocar o instrumento. Esse vínculo familiar é um exemplo concreto de transmissão de conhecimentos entre gerações.\n\nA pesquisa disponível não autoriza completar uma árvore genealógica com nomes e datas de todos os familiares. Por isso, o acervo registra apenas o parentesco documentado e deixa os demais campos como “não localizado em fonte consultada”.\n\n<h4>O que a documentação institucional confirma</h4>\n\nO Iphan aprovou o registro do Cavalo-Marinho como Patrimônio Cultural do Brasil em 3 de dezembro de 2014. O dossiê destaca a convivência entre integrantes, a transmissão de músicas, personagens, construção de adereços, dança e canto. As apresentações se associam especialmente ao ciclo natalino, mas podem ocorrer durante o ano.\n\n<h4>Como aprofundar as biografias</h4>\n\nPara mestres como João Araújo, Mestre Pinto, Mestre Pedro Luiz, Duda Bilau, Lelé e Nerzim, é necessário cruzar entrevistas, pesquisas acadêmicas e arquivos de cada grupo. O acervo deve distinguir depoimento oral, registro institucional e documento civil; divergências de datas devem aparecer como divergências, não ser resolvidas por suposição.\n\n<h4>Fontes consultáveis</h4>\n\n<ul><li><a href=\"https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/mestre-salustiano/\" target=\"_blank\" rel=\"noopener noreferrer\">Fundação Joaquim Nabuco — biografia de Mestre Salustiano</a></li><li><a href=\"https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-do-cavalo-marinho-como-patrimonio-cultural-do-brasil/\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — registro do Cavalo-Marinho</a></li><li><a href=\"https://www.gov.br/iphan/pt-br/superintendencias/pernambuco/patrimonio-imaterial\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan Pernambuco — patrimônio imaterial</a></li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "Fundação Joaquim Nabuco; Iphan — páginas institucionais consultadas em outubro de 2026."
+      },
+      {
+        "eyebrow": "Galeria documental",
+        "title": "Imagens de Cavalo-Marinho",
+        "content": "Imagens e endereços preservados da versão HTML anterior. Confira as páginas de origem e as condições de uso antes de republicar.",
+        "rich": false,
+        "images": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cavalo-marinho_2.jpg/800px-Cavalo-marinho_2.jpg",
+            "alt": "Imagem principal de Cavalo-Marinho",
+            "caption": "Imagem de referência de Cavalo-Marinho",
+            "credit": "Imagem já presente no HTML anterior."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "capoeira",
+    "title": "Capoeira",
+    "category": "danca",
+    "categoryLabel": "Jogo · Música · Resistência",
+    "region": "Bahia · Pernambuco · Paraíba",
+    "territorialNote": "Bahia · Pernambuco · Paraíba. Expressão afro-brasileira que une corpo, música, resistência e identidade, com linhagens históricas como Mestre Bimba e Mestre Pastinha.",
+    "subtitle": "Jogo · Música · Resistência",
+    "excerpt": "Expressão afro-brasileira que une corpo, música, resistência e identidade, com linhagens históricas como Mestre Bimba e Mestre Pastinha.",
+    "story": [
+      "Expressão afro-brasileira que une corpo, música, resistência e identidade, com linhagens históricas como Mestre Bimba e Mestre Pastinha."
+    ],
+    "storyIsHtml": false,
+    "visualMotif": "Memória, música, dança e saberes da comunidade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rugendas_-_Jogar_Capoeira.jpg/800px-Rugendas_-_Jogar_Capoeira.jpg",
+    "photoCredit": "Imagem preservada da versão HTML anterior",
+    "photoSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rugendas_-_Jogar_Capoeira.jpg/800px-Rugendas_-_Jogar_Capoeira.jpg",
+    "sources": [
+      {
+        "title": "IPHAN. Roda de Capoeira e Ofício dos Mestres e Mestras. Brasília, 2008.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "FUNDAÇÃO CULTURAL PALMARES; FUNDAÇÃO MESTRE BIMBA; IPHAN.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "IPHAN; FUNDAÇÃO CULTURAL PALMARES.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "ABRASCI; prefeituras da região.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Iphan — Ofício dos Mestres e Mestras da Capoeira",
+        "institution": "Referência citada no dossiê",
+        "url": "https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-do-oficio-dos-mestres-e-mestras-da-capoeira-como-patrimonio-cultural-do-brasil/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — dossiê Roda de Capoeira e Ofício dos Mestres",
+        "institution": "Referência citada no dossiê",
+        "url": "https://bibliotecadigital.iphan.gov.br/items/11bba387-1a54-4cd9-9a47-f74b38ee3212",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Prefeitura de Belo Horizonte — Mestre Pastinha",
+        "institution": "Referência citada no dossiê",
+        "url": "https://prefeitura.pbh.gov.br/cultura/ric/personalidades-negras/mestre-pastinha",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Fundação Mestre Bimba — Mestre Nenel",
+        "institution": "Referência citada no dossiê",
+        "url": "https://fundacaomestrebimba.org.br/mestre-nenel/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Fundação Mestre Bimba — biografia de Mestre Bimba",
+        "institution": "Referência citada no dossiê",
+        "url": "https://fundacaomestrebimba.wordpress.com/mestre-bimba/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan; Prefeitura de Belo Horizonte; Fundação Mestre Bimba. Datas divergentes identificadas no texto.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Imagem de referência de Capoeira",
+        "institution": "Imagem já incluída no HTML anterior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rugendas_-_Jogar_Capoeira.jpg/800px-Rugendas_-_Jogar_Capoeira.jpg",
+        "note": "Endereço original preservado; confirme licença e atribuição."
+      },
+      {
+        "title": "Mestre Bimba e discípulos",
+        "institution": "Imagem já incluída no HTML anterior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Capoeira_-_Mestre_Bimba_e_disc%C3%ADpulos.jpg/800px-Capoeira_-_Mestre_Bimba_e_disc%C3%ADpulos.jpg",
+        "note": "Endereço original preservado; confirme licença e atribuição."
+      }
+    ],
+    "extraPages": [
+      {
+        "eyebrow": "Cap. 1",
+        "title": "História Nacional",
+        "content": "A <strong>capoeira</strong> é uma das expressões afro-brasileiras mais importantes para compreender as relações entre corpo, música, resistência, identidade e transmissão cultural. Sua história está ligada à presença de populações africanas e afrodescendentes no Brasil, às sociedades escravistas, às comunidades urbanas e às transformações políticas posteriores à abolição.\n\nNão é historicamente rigoroso afirmar que a capoeira foi criada por uma única pessoa. Ela se formou por processos coletivos, em diferentes ambientes e ao longo do tempo. Os grandes mestres que conhecemos são fundamentais porque organizaram, transmitiram, registraram ou transformaram determinadas linhagens.\n\nA capoeira foi perseguida e criminalizada em diferentes períodos. No <strong>Código Penal de 1890</strong>, sua prática foi objeto de repressão legal. Durante o século XX, a capoeira passou por processos de reorganização, institucionalização, expansão educacional e reconhecimento patrimonial.\n\nA <strong>Roda de Capoeira</strong> foi registrada pelo IPHAN como patrimônio cultural brasileiro em <strong>2008</strong>. O Ofício dos Mestres e Mestras também recebeu reconhecimento patrimonial.",
+        "rich": true,
+        "images": [],
+        "source": "IPHAN. Roda de Capoeira e Ofício dos Mestres e Mestras. Brasília, 2008."
+      },
+      {
+        "eyebrow": "Cap. 2",
+        "title": "Grandes Mestres",
+        "content": "<h4>Mestre Bimba — Manoel dos Reis Machado (1899–1974)</h4>\n\nSalvador, Bahia. Organizou a <strong>Capoeira Regional</strong>, sistematizou métodos de ensino e criou uma estrutura pedagógica que ampliou a legitimidade social da capoeira.\n\n<h4>Mestre Pastinha — Vicente Ferreira Pastinha (1889–1981)</h4>\n\nSalvador, Bahia. Defendeu e sistematizou a <strong>Capoeira Angola</strong>, valorizando sua dimensão ritual, musical, filosófica e comunitária.\n\n<h4>Mestre Waldemar da Paixão</h4>\n\nBairro da <strong>Liberdade</strong>, Salvador. Preservou a tradição das rodas de rua e a musicalidade da capoeira, especialmente por sua relação com o <strong>berimbau</strong>.\n\n<h4>Mestre Traíra</h4>\n\nSalvador, Bahia. Referência histórica da capoeira tradicional, reconhecido pela técnica de jogo e por sua presença na memória das rodas baianas.\n\n<h4>Outros mestres fundamentais</h4>\n\nMestre João Grande, Mestre João Pequeno, Mestre Canjiquinha, Mestre Caiçara e Mestre Suassuna.",
+        "rich": true,
+        "images": [],
+        "source": "FUNDAÇÃO CULTURAL PALMARES; FUNDAÇÃO MESTRE BIMBA; IPHAN."
+      },
+      {
+        "eyebrow": "Cap. 3",
+        "title": "Angola e Regional",
+        "content": "A comparação entre Capoeira Angola e Capoeira Regional é esquemática. Existem diferenças entre grupos da mesma modalidade, e as práticas atuais não se resumem a duas categorias rígidas.\n\n<h4>Capoeira Angola</h4>\n\nReferência histórica em <strong>Mestre Pastinha</strong> e outras linhagens tradicionais. Ênfase em estratégia, diálogo corporal, ritual e malícia.\n\n<h4>Capoeira Regional</h4>\n\nReferência histórica em <strong>Mestre Bimba</strong>. Ênfase em método sistematizado, sequências e desenvolvimento técnico.\n\n<h4>Instrumentos</h4>\n\n<ul><li><strong>Berimbau:</strong> verga, arame e cabaça; tocado com baqueta e caxixi.</li><li><strong>Pandeiro:</strong> acentos, subdivisões e variações de timbre.</li><li><strong>Atabaque:</strong> tambor que fornece base rítmica.</li><li><strong>Agogô:</strong> campânulas metálicas com padrões sonoros.</li><li><strong>Reco-reco:</strong> instrumento de raspagem.</li></ul>\n\nAs cantigas podem narrar acontecimentos, homenagear mestres, transmitir ensinamentos ou comentar situações da roda.",
+        "rich": true,
+        "images": [],
+        "source": "IPHAN; FUNDAÇÃO CULTURAL PALMARES."
+      },
+      {
+        "eyebrow": "Cap. 4",
+        "title": "Capoeira na Paraíba e em Pernambuco",
+        "content": "A história nacional da capoeira fornece o contexto, mas não substitui a pesquisa sobre os grupos dos dois estados. A investigação local deve identificar academias, associações, rodas de rua, projetos escolares, grupos de Angola e Regional, mestres formados em outras cidades e os processos de transmissão entre gerações.\n\n<h4>Mestre Marcos Traíra</h4>\n\nDesenvolve trabalhos com capoeira e vertentes culturais desde <strong>1993</strong>, com atuação em cidades da Paraíba e de Pernambuco. Em 2026, foi reconhecido pela Academia Brasileira de Ciências, Artes, História e Literatura (ABRASCI) como <strong>Imortal</strong>, integrando o Colegiado de Artes.\n\n<h4>Escola de Capoeira Angola e Regional Arte e Dança da Cultura Negra</h4>\n\nFunciona em Pernambuco, no Estádio Municipal de uma das cidades da região, sob liderança de Mestre Marcos Traíra.\n\n<h4>Núcleos na Paraíba</h4>\n\nMunicípios paraibanos da Zona da Mata oferecem <strong>oficinas de Capoeira</strong> em seus Núcleos Culturais, integrando programas municipais de valorização das culturas populares.\n\nA pesquisa também precisa mapear a circulação regional de capoeiristas. Um mestre pode ter nascido em outra cidade e desempenhar papel fundamental na formação de um grupo local.",
+        "rich": true,
+        "images": [],
+        "source": "ABRASCI; prefeituras da região."
+      },
+      {
+        "eyebrow": "Dossiê biográfico",
+        "title": "Mestres de referência: trajetórias e legado",
+        "content": "<h4>Manoel dos Reis Machado — Mestre Bimba (1899/1900–1974)</h4>\n\nA Fundação Mestre Bimba registra 23 de novembro de 1899 como data de nascimento de Manoel dos Reis Machado, em Salvador, e 5 de fevereiro de 1974 como data de falecimento, em Goiânia. Algumas biografias publicam 1900 como ano de nascimento; a diferença deve ser mantida como divergência entre fontes. A Fundação identifica seus pais como Luiz Cândido Machado e Maria Martinha do Bonfim. Bimba organizou uma metodologia de ensino e desenvolveu a Capoeira Regional a partir de conhecimentos da capoeira praticada em seu tempo e do batuque.\n\n<h4>Vicente Ferreira Pastinha — Mestre Pastinha (1889–1981)</h4>\n\nA Prefeitura de Belo Horizonte informa que Pastinha nasceu em Salvador em 5 de abril de 1889, era filho de um comerciante espanhol e de uma mulher baiana que havia sido escravizada, e fundou o Centro Esportivo de Capoeira Angola. A trajetória de Pastinha é central para a continuidade e valorização da Capoeira Angola. A data de falecimento mais citada é 13 de novembro de 1981; antes de publicar documentos biográficos mais extensos, o acervo deve conferir essa data em fontes institucionais e no dossiê do Iphan.\n\n<h4>Família, descendência e responsabilidade documental</h4>\n\nA Fundação Mestre Bimba identifica Mestre Nenel (Manoel Nascimento Machado), nascido em 26 de setembro de 1960, como filho de Berenice Conceição Nascimento e de Mestre Bimba, e registra sua atuação na preservação da Capoeira Regional. Informações sobre companheiros, filhos, parentes e descendentes de outros mestres só devem ser incluídas quando publicadas por fonte confiável ou fornecidas com consentimento pelos próprios envolvidos.\n\n<h4>Reconhecimento patrimonial</h4>\n\nO Iphan reconheceu a Roda de Capoeira e o Ofício dos Mestres e Mestras da Capoeira como patrimônio cultural brasileiro. A documentação ressalta que os mestres transmitem não apenas movimentos, mas música, rituais, valores, memória e modos de convivência. A capoeira não tem um único criador: é uma tradição coletiva formada e transformada historicamente.\n\n<h4>Fontes consultáveis</h4>\n\n<ul><li><a href=\"https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-do-oficio-dos-mestres-e-mestras-da-capoeira-como-patrimonio-cultural-do-brasil/\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — Ofício dos Mestres e Mestras da Capoeira</a></li><li><a href=\"https://bibliotecadigital.iphan.gov.br/items/11bba387-1a54-4cd9-9a47-f74b38ee3212\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — dossiê Roda de Capoeira e Ofício dos Mestres</a></li><li><a href=\"https://prefeitura.pbh.gov.br/cultura/ric/personalidades-negras/mestre-pastinha\" target=\"_blank\" rel=\"noopener noreferrer\">Prefeitura de Belo Horizonte — Mestre Pastinha</a></li><li><a href=\"https://fundacaomestrebimba.org.br/mestre-nenel/\" target=\"_blank\" rel=\"noopener noreferrer\">Fundação Mestre Bimba — Mestre Nenel</a></li><li><a href=\"https://fundacaomestrebimba.wordpress.com/mestre-bimba/\" target=\"_blank\" rel=\"noopener noreferrer\">Fundação Mestre Bimba — biografia de Mestre Bimba</a></li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "Iphan; Prefeitura de Belo Horizonte; Fundação Mestre Bimba. Datas divergentes identificadas no texto."
+      },
+      {
+        "eyebrow": "Galeria documental",
+        "title": "Imagens de Capoeira",
+        "content": "Imagens e endereços preservados da versão HTML anterior. Confira as páginas de origem e as condições de uso antes de republicar.",
+        "rich": false,
+        "images": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rugendas_-_Jogar_Capoeira.jpg/800px-Rugendas_-_Jogar_Capoeira.jpg",
+            "alt": "Imagem principal de Capoeira",
+            "caption": "Imagem de referência de Capoeira",
+            "credit": "Imagem já presente no HTML anterior."
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Capoeira_-_Mestre_Bimba_e_disc%C3%ADpulos.jpg/800px-Capoeira_-_Mestre_Bimba_e_disc%C3%ADpulos.jpg",
+            "alt": "Mestre Bimba e discípulos",
+            "caption": "Mestre Bimba e discípulos",
+            "credit": "Imagem já presente no HTML anterior."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "maracatu",
+    "title": "Maracatu de Baque Solto",
+    "category": "festa",
+    "categoryLabel": "Cortejo · Poesia · Música",
+    "region": "Zona da Mata Norte (PE/PB)",
+    "territorialNote": "Zona da Mata Norte (PE/PB). Manifestação dos canaviais pernambucanos, com caboclos de lança, mestres de apito e loas improvisadas. Patrimônio Cultural do Brasil desde 2014.",
+    "subtitle": "Cortejo · Poesia · Música",
+    "excerpt": "Manifestação dos canaviais pernambucanos, com caboclos de lança, mestres de apito e loas improvisadas. Patrimônio Cultural do Brasil desde 2014.",
+    "story": [
+      "Manifestação dos canaviais pernambucanos, com caboclos de lança, mestres de apito e loas improvisadas. Patrimônio Cultural do Brasil desde 2014."
+    ],
+    "storyIsHtml": false,
+    "visualMotif": "Memória, música, dança e saberes da comunidade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg/800px-Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg",
+    "photoCredit": "Imagem preservada da versão HTML anterior",
+    "photoSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg/800px-Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg",
+    "sources": [
+      {
+        "title": "IPHAN. Maracatu de Baque Solto. Brasília, 2014.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "IPHAN; FUNDAÇÃO JOAQUIM NABUCO.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "GOVERNO DE PERNAMBUCO. Patrimônios Vivos; prefeituras da região.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Iphan — Maracatu de Baque Solto",
+        "institution": "Referência citada no dossiê",
+        "url": "https://bcr.iphan.gov.br/bens-culturais/maracatu-baque-solto/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — relatório complementar do bem imaterial",
+        "institution": "Referência citada no dossiê",
+        "url": "https://sicg.iphan.gov.br/sicg/bemImaterial/rel/596/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Artigo acadêmico: Maracatu de Baque Solto, de brincadeira a patrimônio cultural",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.ivt.coppe.ufrj.br/caderno/article/view/1943",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Fundarpe / Cultura PE — Patrimônios Vivos",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.cultura.pe.gov.br/pagina/patrimonio-cultural/imaterial/patrimonios-vivos/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — dossiê e relatório do Maracatu de Baque Solto; artigo acadêmico publicado no Caderno Virtual de Turismo.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Imagem de referência de Maracatu de Baque Solto",
+        "institution": "Imagem já incluída no HTML anterior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg/800px-Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg",
+        "note": "Endereço original preservado; confirme licença e atribuição."
+      }
+    ],
+    "extraPages": [
+      {
+        "eyebrow": "Cap. 1",
+        "title": "Baque Solto e Baque Virado",
+        "content": "Uma pesquisa profissional sobre maracatu deve distinguir duas tradições que possuem histórias, estruturas musicais e personagens diferentes.\n\n<h4>Maracatu de Baque Solto</h4>\n\nTambém chamado de <strong>Maracatu Rural</strong>, <strong>de Orquestra</strong> ou <strong>de Trombone</strong>. Ligado especialmente à Zona da Mata Norte pernambucana e ao universo dos trabalhadores canavieiros. Foi reconhecido pelo IPHAN como <strong>Patrimônio Cultural do Brasil em 2014</strong>.\n\n<h4>Maracatu de Baque Virado</h4>\n\nConhecido como <strong>Maracatu Nação</strong>. Associado a cortejos reais, comunidades afro-brasileiras, batuques e tradições de coroação de reis e rainhas negros.",
+        "rich": true,
+        "images": [],
+        "source": "IPHAN. Maracatu de Baque Solto. Brasília, 2014."
+      },
+      {
+        "eyebrow": "Cap. 2",
+        "title": "Formação e Transformação",
+        "content": "A documentação institucional situa a formação dos maracatus mais antigos em <strong>engenhos de cana-de-açúcar</strong>, entre o final do século XIX e o início do século XX. Seus fundadores eram trabalhadores rurais e cortadores de cana.\n\nA manifestação é resultado de um processo complexo de intercâmbio entre folguedos populares. Estudos discutem relações com o <strong>Cavalo-Marinho</strong>, o <strong>bumba meu boi</strong>, as <strong>cambindas</strong>, os <strong>caboclinhos</strong> e outras tradições.\n\nEssa formação histórica interessa diretamente ao estudo da Paraíba e de Pernambuco, pois as cidades da região estão inseridas em uma zona de contato entre os dois estados, próxima aos circuitos culturais da Zona da Mata.",
+        "rich": true,
+        "images": [],
+        "source": "IPHAN. Maracatu de Baque Solto. Brasília, 2014."
+      },
+      {
+        "eyebrow": "Cap. 3",
+        "title": "Personagens e Música",
+        "content": "<h4>Caboclo de lança</h4>\n\nPersonagem emblemático, com <strong>gola bordada</strong>, chapéu ornamentado, lança e chocalhos. Sua atuação envolve movimentos corporais intensos, deslocamentos e grande domínio da indumentária.\n\n<h4>Outros personagens</h4>\n\nCaboclos de pena ou <em>arreiamá</em>, baianas, dama do paço (com a boneca <em>calunga</em>), rei, rainha, Mateus e Catita.\n\n<h4>Orquestra e instrumentos</h4>\n\nA orquestra do Baque Solto combina percussão e sopros: <strong>tarol</strong>, <strong>surdo</strong>, <strong>ganzá</strong>, <strong>cuíca</strong>, <strong>gonguê</strong>, além de <strong>trombones</strong>, <strong>trompetes</strong>, <strong>saxofones</strong> e <strong>clarinetes</strong>.\n\n<h4>Mestre de apito</h4>\n\nOcupa posição central porque sua atuação articula música e poesia. As <strong>loas</strong> podem envolver improvisação, homenagens, comentários sobre acontecimentos e desafios poéticos.",
+        "rich": true,
+        "images": [],
+        "source": "IPHAN; FUNDAÇÃO JOAQUIM NABUCO."
+      },
+      {
+        "eyebrow": "Cap. 4",
+        "title": "Mestres e Presença na PB e PE",
+        "content": "Para compreender a história do maracatu, é necessário pesquisar não somente os mestres de apito, mas também os músicos, artesãos, costureiras, bordadores, dirigentes, caboclos de lança experientes e pessoas que mantêm os aspectos rituais do grupo.\n\n<h4>Patrimônios Vivos de Pernambuco</h4>\n\nO Governo de Pernambuco mantém uma política de reconhecimento de mestres, mestras e grupos como <strong>Patrimônios Vivos</strong>, incluindo representantes da poesia popular e de outras expressões tradicionais.\n\n<h4>Presença regional</h4>\n\nAssociações de maracatu estão registradas em cidades da Zona da Mata Norte pernambucana e do extremo da Paraíba, incluindo grupos como o <strong>Leão da Fronteira</strong> e o <strong>Leãozinho das Flores</strong>. Feiras folclóricas da região têm incluído apresentações de maracatu entre suas manifestações.\n\nNão há base suficiente, nas fontes consultadas, para afirmar que todos os personagens e grupos mencionados na documentação estadual estejam presentes atualmente em todas as cidades da região. Essa confirmação exige inventário territorial.",
+        "rich": true,
+        "images": [],
+        "source": "GOVERNO DE PERNAMBUCO. Patrimônios Vivos; prefeituras da região."
+      },
+      {
+        "eyebrow": "Dossiê de patrimônio",
+        "title": "Maracatu de Baque Solto: território, mestres e grupos",
+        "content": "<h4>Uma tradição ligada às comunidades canavieiras</h4>\n\nO Iphan descreve o Maracatu de Baque Solto — também chamado maracatu rural, de orquestra ou de trombone — como uma brincadeira de música, dança e poesia associada sobretudo à Zona da Mata Norte de Pernambuco. Registros do inventário indicam que grupos antigos se formaram em engenhos e entre trabalhadores rurais, especialmente cortadores de cana, entre o fim do século XIX e o começo do século XX.\n\nSua formação não deve ser atribuída a uma origem única. A documentação do Iphan aponta uma composição histórica complexa, com relações com outras manifestações populares, entre elas cambindas, bumba-meu-boi e Cavalo-Marinho. O repertório, os personagens e os sentidos rituais variam entre grupos e comunidades.\n\n<h4>Elementos que precisam ser registrados por grupo</h4>\n\n<ul><li>Nome oficial e nome popular do maracatu, município e comunidade de referência.</li><li>Data de fundação e nome dos fundadores, somente quando confirmados em documentação ou memória oral identificada.</li><li>Presidência, mestre de apito, compositores de loas, artesãos, costureiras, caboclos de lança e demais funções, respeitando a forma como cada grupo se identifica.</li><li>História das fantasias, instrumentos, ensaios, sambadas, calendário e práticas de transmissão.</li><li>Depoimentos com nome, data, autorização de uso e identificação de quem realizou a entrevista.</li></ul>\n\n<h4>Mestres e biografias</h4>\n\nNão existe uma biografia única que represente todos os maracatus. Para incluir nascimento, falecimento, familiares e linhagens de mestres, o próximo passo documental é consultar o dossiê de registro, a Fundarpe, arquivos municipais e os próprios grupos. Não preencher dados pessoais por aproximação nem transferir automaticamente a biografia de um mestre de Cavalo-Marinho para a história de um maracatu, mesmo quando a mesma pessoa atua em mais de uma tradição.\n\n<h4>Reconhecimento patrimonial e fontes</h4>\n\nO Maracatu de Baque Solto foi registrado como Patrimônio Cultural do Brasil em 2014, no Livro de Registro das Formas de Expressão.\n\n<ul><li><a href=\"https://bcr.iphan.gov.br/bens-culturais/maracatu-baque-solto/\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — Maracatu de Baque Solto</a></li><li><a href=\"https://sicg.iphan.gov.br/sicg/bemImaterial/rel/596/\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — relatório complementar do bem imaterial</a></li><li><a href=\"https://www.ivt.coppe.ufrj.br/caderno/article/view/1943\" target=\"_blank\" rel=\"noopener noreferrer\">Artigo acadêmico: Maracatu de Baque Solto, de brincadeira a patrimônio cultural</a></li><li><a href=\"https://www.cultura.pe.gov.br/pagina/patrimonio-cultural/imaterial/patrimonios-vivos/\" target=\"_blank\" rel=\"noopener noreferrer\">Fundarpe / Cultura PE — Patrimônios Vivos</a></li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "Iphan — dossiê e relatório do Maracatu de Baque Solto; artigo acadêmico publicado no Caderno Virtual de Turismo."
+      },
+      {
+        "eyebrow": "Galeria documental",
+        "title": "Imagens de Maracatu de Baque Solto",
+        "content": "Imagens e endereços preservados da versão HTML anterior. Confira as páginas de origem e as condições de uso antes de republicar.",
+        "rich": false,
+        "images": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg/800px-Maracatu_Rural_-_Caboclo_de_Lan%C3%A7a.jpg",
+            "alt": "Imagem principal de Maracatu de Baque Solto",
+            "caption": "Imagem de referência de Maracatu de Baque Solto",
+            "credit": "Imagem já presente no HTML anterior."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "coco-de-roda",
+    "title": "Coco de Roda",
+    "category": "danca",
+    "categoryLabel": "Canto · Dança · Memória",
+    "region": "Paraíba · Pernambuco · Nordeste",
+    "territorialNote": "Paraíba · Pernambuco · Nordeste. Conjunto de tradições musicais e coreográficas do Nordeste, com cantos responsoriais, percussão e movimentos de roda.",
+    "subtitle": "Canto · Dança · Memória",
+    "excerpt": "Conjunto de tradições musicais e coreográficas do Nordeste, com cantos responsoriais, percussão e movimentos de roda.",
+    "story": [
+      "Conjunto de tradições musicais e coreográficas do Nordeste, com cantos responsoriais, percussão e movimentos de roda."
+    ],
+    "storyIsHtml": false,
+    "visualMotif": "Memória, música, dança e saberes da comunidade",
+    "image": "",
+    "photoCredit": "Imagem preservada da versão HTML anterior",
+    "photoSourceUrl": "#",
+    "sources": [
+      {
+        "title": "Lei 15.161/2025; CÂMARA CASCUDO, Luís da. Dicionário do Folclore Brasileiro.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "CÂMARA CASCUDO, Luís da. Dicionário do Folclore Brasileiro.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Prefeituras e produtoras culturais da região.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Iphan — processo de registro dos Cocos do Nordeste",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-seleciona-organizacao-para-o-processo-de-registro-dos-cocos-do-nordeste",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — reuniões na Paraíba e salvaguarda dos Cocos",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ciclo-de-reunioes-na-paraiba-aborda-registro-e-salvaguarda-dos-cocos-do-nordeste",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan Paraíba — ações de patrimônio no estado",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.gov.br/iphan/pt-br/superintendencias/paraiba",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Iphan — publicações sobre os Cocos do Nordeste e o processo de registro/salvaguarda.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      }
+    ],
+    "extraPages": [
+      {
+        "eyebrow": "Cap. 1",
+        "title": "Tradição Plural",
+        "content": "O <strong>Coco</strong> é um conjunto de tradições musicais, coreográficas e poéticas encontradas em diferentes partes do Nordeste. A expressão <em>coco de roda</em> descreve uma forma de organização coletiva, mas não significa que todas as variantes sejam iguais.\n\nO coco pode ser praticado em rodas, com <strong>cantos responsoriais</strong>, percussão, palmas e movimentos de dança. Em algumas tradições, aparecem passos de umbigada; em outras, o destaque está na pisada, na disposição da roda ou na interação entre cantador e participantes.\n\nA <strong>Lei 15.161/2025</strong> instituiu o <strong>Dia Nacional do Coco de Roda, da Ciranda e da Mazurca</strong> em 26 de julho.",
+        "rich": true,
+        "images": [],
+        "source": "Lei 15.161/2025; CÂMARA CASCUDO, Luís da. Dicionário do Folclore Brasileiro."
+      },
+      {
+        "eyebrow": "Cap. 2",
+        "title": "Origens e Estrutura Musical",
+        "content": "As origens do coco são objeto de diferentes narrativas e interpretações. A tradição se desenvolveu em contextos nordestinos marcados por matrizes africanas e indígenas, pela vida rural, pelo trabalho comunitário e pelas transformações das festas populares.\n\nO coco surgiu nos <strong>engenhos de açúcar</strong> da antiga Capitania de Pernambuco, com influências dos batuques africanos e bailados indígenas. A primeira referência data da segunda metade do <strong>século XVIII</strong>.\n\nUma narrativa recorrente associa o coco à quebra do fruto e às atividades coletivas de trabalho. Essa explicação pode ser importante como memória de determinadas comunidades, mas não deve ser tomada como origem única e comprovada de todas as variantes.\n\n<h4>Instrumentos e corpo</h4>\n\n<ul><li><strong>Ganzá, surdo, pandeiro, triângulo:</strong> base rítmica.</li><li><strong>Tamanco:</strong> sandália de madeira que marca a cadência, imitando o som do coco sendo quebrado.</li><li><strong>Voz e canto responsorial:</strong> um cantador apresenta versos, o conjunto responde com refrões.</li><li><strong>Palmas e percussão corporal:</strong> o corpo dos participantes funciona como parte da base rítmica.</li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "CÂMARA CASCUDO, Luís da. Dicionário do Folclore Brasileiro."
+      },
+      {
+        "eyebrow": "Cap. 3",
+        "title": "Mestres e Presença na PB e PE",
+        "content": "No coco, a autoridade cultural pode estar associada a diferentes funções: <strong>puxador de canto</strong>, <strong>coquista</strong>, <strong>poeta</strong>, <strong>dançarino experiente</strong>, <strong>instrumentista</strong> ou <strong>organizador da roda</strong>.\n\n<h4>Temas a investigar</h4>\n\n<ul><li>Cantos de trabalho e cantos festivos.</li><li>Versos de improviso e repertório memorizado.</li><li>Temas de humor, cotidiano, religiosidade e memória.</li><li>Repertórios específicos de famílias e comunidades.</li><li>Participação das mulheres como cantadoras, dançarinas, organizadoras e transmissoras.</li></ul>\n\n<h4>Presença local</h4>\n\nFeiras folclóricas e eventos culturais de cidades da Paraíba e de Pernambuco têm incluído apresentações de <strong>coco</strong> entre suas manifestações. Produtoras culturais e projetos sociais da região oferecem oficinas de <strong>Coco de Roda</strong> entre suas atividades.\n\nAinda é necessário identificar e confirmar os grupos de coco diretamente vinculados a cada município. A proximidade geográfica com outros territórios nordestinos torna a investigação pertinente, mas não permite atribuir automaticamente a essas cidades a história de grupos de outras localidades.",
+        "rich": true,
+        "images": [],
+        "source": "Prefeituras e produtoras culturais da região."
+      },
+      {
+        "eyebrow": "Dossiê de pesquisa",
+        "title": "Coco de Roda: variações, comunidades e memória oral",
+        "content": "<h4>Uma família diversa de expressões culturais</h4>\n\nO Iphan descreve os Cocos do Nordeste como práticas que combinam música tocada e cantada, poesia, improviso, dança, corporalidade, performance e relação com o território. A expressão inclui diferentes denominações e formas locais, como coco de roda, umbigada, coco praiano e embolada. A tradição possui vínculos afro-brasileiros e indígenas, mas não deve ser reduzida a uma única origem ou a uma forma coreográfica uniforme.\n\n<h4>O contexto da Paraíba</h4>\n\nO Iphan registrou em 2023–2024 a retomada de ações de pesquisa e mobilização para o reconhecimento dos Cocos do Nordeste, com participação de mestres e mestras, músicos, dançarinos e comunidades. A instituição trata o coco como um processo de registro e salvaguarda em construção, portanto o site não deve afirmar que todas as modalidades já possuem reconhecimento nacional individualizado.\n\n<h4>Como documentar mestres e mestras</h4>\n\nA história de cada grupo precisa incluir nome artístico e nome civil apenas quando autorizados/publicamente documentados, comunidade, trajetória de aprendizagem, repertório, pessoas que ensinaram, espaços de atuação e depoimentos. Para nascimento, falecimento e parentesco, registrar apenas o que estiver confirmado; se houver memória oral sem documento, indicar quem contou, quando e em que contexto. A ausência de um registro escrito não diminui a importância do conhecimento comunitário.\n\n<h4>Fontes consultáveis</h4>\n\n<ul><li><a href=\"https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-seleciona-organizacao-para-o-processo-de-registro-dos-cocos-do-nordeste\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — processo de registro dos Cocos do Nordeste</a></li><li><a href=\"https://www.gov.br/iphan/pt-br/assuntos/noticias/ciclo-de-reunioes-na-paraiba-aborda-registro-e-salvaguarda-dos-cocos-do-nordeste\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan — reuniões na Paraíba e salvaguarda dos Cocos</a></li><li><a href=\"https://www.gov.br/iphan/pt-br/superintendencias/paraiba\" target=\"_blank\" rel=\"noopener noreferrer\">Iphan Paraíba — ações de patrimônio no estado</a></li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "Iphan — publicações sobre os Cocos do Nordeste e o processo de registro/salvaguarda."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "maculele",
+    "title": "Maculelê",
+    "category": "danca",
+    "categoryLabel": "Dança · Bastões · Ritmo",
+    "region": "Bahia · Paraíba · Pernambuco",
+    "territorialNote": "Bahia · Paraíba · Pernambuco. Manifestação afro-brasileira de dança coletiva com bastões, marcação rítmica, canto e percussão, com raízes em Santo Amaro da Purificação.",
+    "subtitle": "Dança · Bastões · Ritmo",
+    "excerpt": "Manifestação afro-brasileira de dança coletiva com bastões, marcação rítmica, canto e percussão, com raízes em Santo Amaro da Purificação.",
+    "story": [
+      "Manifestação afro-brasileira de dança coletiva com bastões, marcação rítmica, canto e percussão, com raízes em Santo Amaro da Purificação."
+    ],
+    "storyIsHtml": false,
+    "visualMotif": "Memória, música, dança e saberes da comunidade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maculele.jpg/800px-Maculele.jpg",
+    "photoCredit": "Imagem preservada da versão HTML anterior",
+    "photoSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maculele.jpg/800px-Maculele.jpg",
+    "sources": [
+      {
+        "title": "Tradição oral; pesquisas sobre o Recôncavo Baiano.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Produtoras culturais e caravanas regionais.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "UFRB — pesquisa acadêmica sobre a biografia de Mestre Popó e a memória oral do Maculelê",
+        "institution": "Referência citada no dossiê",
+        "url": "https://www.ufrb.edu.br/ppgap/images/2024_FLAVIA.pdf",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "CPPA — síntese histórica sobre o Maculelê de Santo Amaro",
+        "institution": "Referência citada no dossiê",
+        "url": "https://cppa.com.br/Maculel%C3%AA-CPPA/",
+        "note": "Link preservado do HTML anterior."
+      },
+      {
+        "title": "Universidade Federal do Recôncavo da Bahia — pesquisa acadêmica; fontes de memória oral identificadas no estudo.",
+        "institution": "Referência bibliográfica citada no HTML anterior",
+        "url": "#",
+        "note": "Referência preservada conforme o conteúdo original; endereço eletrônico não estava informado."
+      },
+      {
+        "title": "Imagem de referência de Maculelê",
+        "institution": "Imagem já incluída no HTML anterior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maculele.jpg/800px-Maculele.jpg",
+        "note": "Endereço original preservado; confirme licença e atribuição."
+      }
+    ],
+    "extraPages": [
+      {
+        "eyebrow": "Cap. 1",
+        "title": "Identidade e História",
+        "content": "O <strong>Maculelê</strong> é uma manifestação afro-brasileira caracterizada pela dança coletiva com <strong>bastões</strong>, pela marcação rítmica, pelo canto e pela percussão.\n\nSua história está fortemente associada a <strong>Santo Amaro, no Recôncavo Baiano</strong>, onde a tradição foi preservada e difundida por grupos e mestres. Sua trajetória contemporânea também se relaciona com a expansão de apresentações culturais e com a incorporação do Maculelê a muitas escolas e grupos de capoeira.\n\nÉ necessário distinguir a memória tradicional, as narrativas de origem e os registros históricos disponíveis.",
+        "rich": true,
+        "images": [],
+        "source": "Tradição oral; pesquisas sobre o Recôncavo Baiano."
+      },
+      {
+        "eyebrow": "Cap. 2",
+        "title": "Mestre Popó e Santo Amaro",
+        "content": "A memória do Maculelê de Santo Amaro está fortemente associada a <strong>Mestre Popó</strong>, frequentemente lembrado nas narrativas sobre a preservação e a difusão da manifestação.\n\nSeu nome deve integrar um estudo ampliado do Maculelê porque permite investigar como uma tradição local foi preservada, reorganizada e transmitida a novos praticantes.\n\nPara uma biografia definitiva, devem ser consultados registros históricos e relatos de familiares, discípulos e instituições culturais de Santo Amaro.\n\n<h4>Santo Amaro como centro difusor</h4>\n\nA cidade do Recôncavo Baiano tornou-se, ao longo do século XX, um dos principais centros de preservação e difusão do Maculelê. De lá, a manifestação se espalhou para outras regiões do Brasil, especialmente por meio de grupos de capoeira.",
+        "rich": true,
+        "images": [],
+        "source": "Tradição oral; pesquisas sobre o Recôncavo Baiano."
+      },
+      {
+        "eyebrow": "Cap. 3",
+        "title": "Técnica e Presença na PB e PE",
+        "content": "Os bastões são elementos centrais do Maculelê. O contato entre eles produz <strong>acentos rítmicos</strong> e exige coordenação, atenção ao parceiro e controle dos movimentos.\n\n<h4>Elementos da execução</h4>\n\n<ul><li>Padrões de batida dos bastões.</li><li>Passos e deslocamentos.</li><li>Coordenação entre os participantes.</li><li>Canto e resposta coletiva.</li><li>Acompanhamento percussivo.</li><li>Organização espacial da apresentação.</li></ul>\n\nO <strong>atabaque</strong> pode sustentar a base rítmica, e outros instrumentos podem ser incorporados conforme a tradição de cada grupo.\n\n<h4>Maculelê e capoeira</h4>\n\nA presença do Maculelê em academias de capoeira não significa que as duas manifestações sejam idênticas. A capoeira tem como elemento corporal central o <em>jogo</em> entre participantes; o Maculelê é <em>dança coletiva com bastões</em>.\n\n<h4>Presença local</h4>\n\nProdutoras culturais e projetos sociais da Paraíba e de Pernambuco oferecem oficinas de <strong>Maculelê</strong> entre suas atividades. Oficinas também foram realizadas na região através de caravanas culturais.",
+        "rich": true,
+        "images": [],
+        "source": "Produtoras culturais e caravanas regionais."
+      },
+      {
+        "eyebrow": "Dossiê de memória oral",
+        "title": "Maculelê: tradição, reconstrução e mestres",
+        "content": "<h4>Mestre Popó e a retomada pública do Maculelê</h4>\n\nEstudos acadêmicos sobre o Maculelê descrevem Paulino Aloísio de Andrade, conhecido como Mestre Popó, como figura central na retomada e divulgação da manifestação em Santo Amaro da Purificação, na Bahia, a partir da década de 1940. A pesquisa acadêmica da Universidade Federal do Recôncavo da Bahia usa a tradição oral e entrevistas para discutir sua trajetória e as memórias comunitárias sobre a dança.\n\nFontes secundárias apresentam datas biográficas para Mestre Popó, mas os relatos sobre a origem remota do Maculelê e os nomes dos primeiros mestres variam. O acervo deve separar a trajetória documentada de Popó das narrativas orais de origem, indicando a fonte de cada versão e evitando transformar uma tradição oral em certeza documental sem explicação.\n\n<h4>Instrumentos, dança e transmissão</h4>\n\nO Maculelê é conhecido pela dança coletiva com bastões, canto responsorial e acompanhamento rítmico. A forma de execução, as letras, os nomes das figuras e a explicação de sua origem podem variar conforme grupo, região e linhagem. A pesquisa deve registrar as versões locais com a identificação do grupo, evitando dizer que todos praticam exatamente da mesma maneira.\n\n<h4>Família e dados pessoais</h4>\n\nAs fontes consultadas descrevem Popó reunindo parentes, filhos, vizinhos e amigos para ensinar a dança; isso não basta para preencher nomes de familiares, datas de nascimento ou trajetórias de todos os descendentes. Esses dados só devem ser adicionados após consulta a fontes biográficas confiáveis ou aos familiares e detentores da tradição, com autorização quando necessária.\n\n<h4>Fontes consultáveis</h4>\n\n<ul><li><a href=\"https://www.ufrb.edu.br/ppgap/images/2024_FLAVIA.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">UFRB — pesquisa acadêmica sobre a biografia de Mestre Popó e a memória oral do Maculelê</a></li><li><a href=\"https://cppa.com.br/Maculel%C3%AA-CPPA/\" target=\"_blank\" rel=\"noopener noreferrer\">CPPA — síntese histórica sobre o Maculelê de Santo Amaro</a></li></ul>",
+        "rich": true,
+        "images": [],
+        "source": "Universidade Federal do Recôncavo da Bahia — pesquisa acadêmica; fontes de memória oral identificadas no estudo."
+      },
+      {
+        "eyebrow": "Galeria documental",
+        "title": "Imagens de Maculelê",
+        "content": "Imagens e endereços preservados da versão HTML anterior. Confira as páginas de origem e as condições de uso antes de republicar.",
+        "rich": false,
+        "images": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maculele.jpg/800px-Maculele.jpg",
+            "alt": "Imagem principal de Maculelê",
+            "caption": "Imagem de referência de Maculelê",
+            "credit": "Imagem já presente no HTML anterior."
+          }
+        ]
+      }
+    ]
+  }
+]
